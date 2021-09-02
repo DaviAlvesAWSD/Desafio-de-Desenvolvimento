@@ -1,0 +1,47 @@
+.corpo{
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 30vh 70vh;
+
+
+  grid-template-areas: "h h"
+                       "f l";
+
+
+}
+
+
+.cadastro {
+  background: #1d262b;
+  grid-area: h;
+
+  display: flex;
+  
+  align-items: center;
+}
+
+.text1{
+  margin-left: 16%;
+  color: white;
+}
+
+.formulario{
+  
+  grid-area: f;
+  background: #263238;
+
+}
+
+.lista {
+ 
+  grid-area: l;
+  background: #263238;
+
+}
+
+.text2{
+  color: rgb(233, 233, 233);
+  margin-top: 3%;
+}
+
