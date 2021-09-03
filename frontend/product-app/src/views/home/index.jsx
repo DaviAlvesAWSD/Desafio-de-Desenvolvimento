@@ -1,9 +1,10 @@
 import './App.css';
 import CadastroComponent from '../../components/cadastroComponent/index.jsx';
 
-function App() {
+
+const App = () => {
   return (
-    <div className="teste" >
+    <div className="app" >
       <CadastroComponent />
     </div>
   );

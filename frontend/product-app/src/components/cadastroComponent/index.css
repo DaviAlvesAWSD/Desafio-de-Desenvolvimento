@@ -22,7 +22,7 @@
 }
 
 .text1{
-  margin-left: 16%;
+  margin-left: 13%;
   color: white;
 }
 
@@ -42,6 +42,7 @@
 
 .text2{
   color: rgb(233, 233, 233);
-  margin-top: 3%;
+  margin: 0;
+  height: 100%;
 }
 
