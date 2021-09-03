@@ -44,4 +44,18 @@ api em funcionamento:
 
 - Desenvolvimento do frontend inicializado
   - aplicação react criada
+  - desenvolvimento do front end concluido
+    - formularios de cadastro
+    - formulario de edição
+    - lista de produtos
+    - opções de editar e de deletar
+    
+    Imagem 1:
+    ![image](https://user-images.githubusercontent.com/75328283/132062123-e1f8751e-207e-405e-b596-a4b7a78a7088.png)
+    
+    Imagem 2:
+    ![image](https://user-images.githubusercontent.com/75328283/132062174-1256c726-327f-4faa-b3cf-5b1c9531fc4b.png)
+
+obeservações finais do projeto: infelizmente não consegui realizar à comunicação entre a api(backend) e à aplicação(frontend), tive muitos problemas para usar as firefunctions, não conseguir subir minha api porém ela funciona normal no ambiente localhost, ambos front e back funcionam individualmente, no frontend a um pequeno problema com à função de editar, mas as outras funções funcionam, talvez eu implemente alguma coisa antes do final do prazo, não sei se o prazo se estende apenas aos dias uteis ou se vai até domingo então por via das duvidas vou enviar hoje.
+
 
