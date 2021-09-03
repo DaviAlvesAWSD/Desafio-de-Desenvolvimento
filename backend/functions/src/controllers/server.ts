@@ -6,7 +6,7 @@ const app = express();
 
 app.use(express.json())
     .use(routes)
-    .get('*', (request, response) => {
+    .get('https://peaceful-archimedes-211c7b.netlify.app/', (request, response) => {
       response.json({message: "invalid route"})
     })
 
